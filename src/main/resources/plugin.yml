@@ -1,0 +1,11 @@
+name: FedRTP
+version: 1.0.0
+main: com.griefserver.rtp.FedRTPPlugin
+api-version: 1.21
+author: FedMaster
+description: Plugin Random Teleport pentru servere Paper/Spigot
+
+commands:
+  rtp:
+    description: Deschide meniul de teleportare aleatorie
+    usage: /rtp
